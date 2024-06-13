@@ -38,9 +38,8 @@
     <li><strong>User Experience:</strong> Focused on creating a seamless and visually appealing navigation experience for users.</li>
   </ul>
 
-  <h3>Technical Details</h3>
 
-  <h4>Technologies and Tools Used</h4>
+  <h3>Technologies and Tools Used</h3>
 
   <ul>
     <li><strong>Programming Language:</strong> Python</li>
